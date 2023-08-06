@@ -60,7 +60,8 @@ header{
 header .logo{
    font-size:3rem;
    font-weight:bold;
-   color:#f4a950; 
+   color:#f4a950;  
+
 }
 header .logo i{
     padding-right:1rem;
@@ -336,6 +337,11 @@ header .navbar a:hover{
     font-size:1.6rem;
     color:black;
     text-transform: none;
+} 
+.imglogo{ 
+   
+    height:50px; 
+    width: 80px;
 }
 .contact h2{
     color:#f4a950;
